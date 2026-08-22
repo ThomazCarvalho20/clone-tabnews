@@ -2,7 +2,7 @@ function Home(){
     return(
         <div>
             <h1>Home</h1>
-            <img src="/page.png" alt="Amor da minha vida" />
+            <img src="/images/foto.png" alt="amor da minha vida" />
         </div>
     )
 }
