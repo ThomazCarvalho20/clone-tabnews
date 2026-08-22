@@ -1,8 +1,8 @@
 function Home(){
     return(
         <div>
-            <h1>Home</h1>
-            <img src="/public/foto.png" alt="amor da minha vida" />
+            <h1>My love3</h1>
+            <img src="/images/image.png" alt="amor da minha vida" width="300" height="200"/>
         </div>
     )
 }
